@@ -1,2 +1,2 @@
 # Resume
-Personal website: [bublikus.github.io/bublik](https://bublikus.github.io/bublik)
+Personal website: [bublikus.github.io/website](https://bublikus.github.io/website)
